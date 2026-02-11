@@ -1,51 +1,67 @@
-<div align="center">
-  <h1>Hamza Razzaq</h1>
-  <p><b>Senior Full Stack AI Engineer • Scalable SaaS Architect</b></p>
-  <p><i>Building Production-Grade AI Ecosystems & Multi-Tenant Systems</i></p>
-</div>
+<h1 align="center">Hi there 👋, I'm Hamza Razzaq</h1>
+<h3 align="center">Senior Full Stack AI Engineer | LLMs • RAG • Scalable SaaS Architect</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamza-razzaq-full-stack-ai-engineer/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/hamza-razzaq"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:hamza.rzq99@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Focus-Production%20AI%20%26%20SaaS-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Exp-6%2B%20Years-blue?style=for-the-badge">
+</p>
+
+<p align="center">
+<b>Architecting the next generation of AI-powered enterprise systems.</b><br>
+Specialized in building high-availability multi-tenant platforms and autonomous agentic workflows.
 </p>
 
 ---
 
-### ⚡ Professional Overview
-* **Specialization:** Architecting **RAG (Retrieval-Augmented Generation)** pipelines and autonomous AI agents for enterprise environments.
-* **Infrastructure:** Expert in building resilient **multi-tenant SaaS** architectures using **Nest.js**, **Next.js**, and **Python**.
-* **Scalability:** Proven experience managing high-traffic platforms with **20,000+ DAU**, focusing on database optimization and clean code.
+## 🚀 Professional Profile
+- 🧠 **AI/ML Lead:** Expert in **RAG architectures**, fine-tuning LLMs, and deploying autonomous agents for business logic.
+- 🏗️ **SaaS Architect:** End-to-end ownership of enterprise systems including **HRMS** and **POS** platforms.
+- ⚙️ **Performance Engineer:** Scaling systems to **20,000+ DAU** with a focus on database reliability and microservices.
+- 🛠️ **Full-Stack Mastery:** Deep production experience with **Next.js 14**, **Nest.js**, and **Python-based AI services**.
 
 ---
 
-### 🛠️ Core Stack
+## 🧠 Technical Ecosystem
 
-| Category | Tech Stack |
+| **Category** | **Technologies & Tools** |
 | :--- | :--- |
-| **Intelligence** | `Python` • `LangChain` • `OpenAI` • `RAG` • `Vector Databases` |
-| **Backend** | `Nest.js` • `FastAPI` • `Node.js` • `Microservices` |
-| **Frontend** | `Next.js 14` • `React` • `TypeScript` • `Tailwind CSS` |
-| **Cloud/Data** | `PostgreSQL` • `Prisma` • `Redis` • `Docker` • `AWS` |
+| **Artificial Intelligence** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch) |
+| **Backend Engineering** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis) |
+| **Frontend Development** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) |
+| **Infrastructure & DB** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) |
 
 ---
 
-### 🏗️ Featured Engineering
-> **AI-Powered HRMS SaaS** > *Architected a full-scale Human Resource Management System for **Malind Tech**.* > • Engineered a complex **multi-tenant RBAC system** and integrated autonomous AI agents for automated payroll and recruitment.  
-> • Built high-performance backend APIs with seamless frontend integration for Admin and Employee portals.
+## 🏗️ Featured SaaS Architectures
 
-> **Inventory & POS SaaS** > *A high-concurrency retail management system.* > • Developed real-time inventory tracking and optimized media delivery systems.  
-> • Focused on database reliability and zero-downtime scaling.
+### 🤖 AI-Powered HR Management SaaS
+*Enterprise-grade workforce automation for **Malind Tech**.*
+- **Architecture:** Distributed **Nest.js microservices** with a multi-tenant PostgreSQL backend.
+- **Innovation:** Integrated **Autonomous AI Agents** for recruitment filtering and automated payroll processing.
+- **Result:** Successfully connected complex backend APIs to a high-performance Admin/Employee portal.
+
+### 🧾 POS & Inventory Management SaaS
+*Real-time retail operations at scale.*
+- **System:** High-concurrency inventory tracking with real-time sales analytics.
+- **Tech:** Built with **Next.js**, **Nest.js**, and **Prisma**; optimized for low-latency data retrieval.
 
 ---
 
-### 📈 Metrics of Impact
-- **28% Increase** in LLM inference accuracy through specialized prompt engineering.
-- **40% Reduction** in deployment cycles by implementing automated CI/CD and Docker orchestration.
-- **Zero-Clash Migrations:** Specialized in resolving complex database conflicts in production environments.
+## 📈 Engineering Highlights
+- 🚀 Improved LLM inference accuracy by **28%** through advanced RAG optimization.
+- ⚡ Reduced system deployment time by **40%** via automated Docker/CI-CD pipelines.
+- 📊 Managed and scaled platforms supporting **20,000+ Daily Active Users**.
 
 ---
 
+## 📫 Get In Touch
+<p align="left">
+<a href="https://www.linkedin.com/in/hamza-razzaq-full-stack-ai-engineer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hamza.rzq99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/hamza-razzaq"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a>
+</p>
+
+---
 <div align="center">
-  <code>Clean Architecture</code> • <code>Scalable Infrastructure</code> • <code>Production AI</code>
+  <b>Clean Architecture • Scalable Systems • Production-Grade AI</b>
 </div>
